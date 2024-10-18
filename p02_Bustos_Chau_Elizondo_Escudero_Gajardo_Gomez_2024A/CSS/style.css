@@ -1,0 +1,49 @@
+body { 
+
+        font-family: Arial, sans-serif; 
+        margin: 0; 
+        padding: 0; 
+        height: 100vh;
+        background-color: #EEE5E5;
+}
+
+    #fotos {
+        margin-top: 4%;
+    }
+
+    #grupfotos {
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 1%;
+    }
+
+    #grupfotos2 {
+        position: absolute;
+        margin-top: 20%;
+        margin-left: 33%;
+    }
+
+    #fotosmart2 {
+        margin-top: 50%;
+    }
+
+    #fotoautor {
+        margin-top: 20%;
+    }
+
+    .gif{
+        background-image: url("GIF/Laser.gif");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center center;
+    }
+
+    footer { 
+
+        text-align: center; 
+        margin-top: 40px; 
+    } 
+
+
+
+  
